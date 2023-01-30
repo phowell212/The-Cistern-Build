@@ -1,5 +1,5 @@
 # The-Cistern-Build
-A windows build of My game: The Cistern. I don't promise that it is up to date. 
+A windows build of my game: The Cistern. I don't promise that it is up to date. 
 
 To use the game, click the green code button then "downlad as zip". After that, extract the files and run "The Cistern.exe" 
 
